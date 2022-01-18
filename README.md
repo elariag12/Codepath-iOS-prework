@@ -35,6 +35,7 @@ GIF created with [Recordit](https://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- A challenge that I went through was trying to reopen the app on Xcode after tranferring the files to my Codepath-iOS-prework folder.
 
 ## License
 
